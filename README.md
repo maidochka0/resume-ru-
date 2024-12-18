@@ -34,3 +34,8 @@
 - Сайт без логики, но с таблицей стилей: [GitHub Pages](https://maidochka0.github.io/cosmos/)
 - Блог на HTML, PHP, MySQL: [GitHub](https://github.com/maidochka0/blog/tree/develop)
 - работа с API на laravel: [GitHub](https://github.com/maidochka0/laravel_0?tab=readme-ov-file)
+
+## Контакты
+
+- тг https://t.me/vsevolodson0
+- телефон +79914952403
